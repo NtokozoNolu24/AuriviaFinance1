@@ -1,7 +1,7 @@
 # AuriviaFinance 
 A collaborative Android application built using Kotlin and modern Android architecture. This app helps users track expenses, manage categories, and analyze spending habits through reports and insights.
 
-Git Repo Link: 
+Git Repo Link: https://github.com/NtokozoNolu24/AuriviaFinance1.git
 
 Team Structure
 This project was developed using a role-based approach:
