@@ -6,17 +6,20 @@ Git Repo Link: https://github.com/NtokozoNolu24/AuriviaFinance1.git
 Team Structure
 This project was developed using a role-based approach:
 
-Person 1 — UI & Navigation
+Thato Menetje (ST10221273) :
+UI & Navigation
 Login & Registration screens
 Navigation (Dashboard, Expenses, Categories, Reports)
 UI design and layout consistency
 
-Person 2 — Database & Data Management 
+Ntokozo Mashiane (ST10455454) :
+Database & Data Management 
 Implemented Room Database (renamed to Finance Database)
 Created entities, DAO, and repository layers
 Managed data persistence for users, categories, and expenses
 
-Person 3 — Reports & Analytics
+Thobeka Sithole (ST10456076) :
+Reports & Analytics
 Spending analysis
 Budget tracking
 Reports and insights
