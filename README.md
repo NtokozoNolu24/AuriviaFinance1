@@ -3,6 +3,8 @@ A collaborative Android application built using Kotlin and modern Android archit
 
 Git Repo Link: https://github.com/NtokozoNolu24/AuriviaFinance1.git
 
+YouTube Video Link: https://youtu.be/MMKG_7ckF8k?feature=shared
+
 Team Structure
 This project was developed using a role-based approach:
 
